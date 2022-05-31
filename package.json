@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/LavonJGreen/budget_tracker/issues"
   },
-  "homepage": "https://github.com/LavonJGreen/budget_tracker#readme"
+  "homepage": "https://github.com/LavonJGreen/budget_tracker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
 }
