@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/LavonJGreen/budget_tracker#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.18.1",
-    "mongoose": "^6.3.5"
+    "mongoose": "^6.3.5",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "webpack": "^5.72.1",
