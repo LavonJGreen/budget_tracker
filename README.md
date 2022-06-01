@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Spending Buddy
 
 ## Description
 This is an interactive web app that tracks the amount of money designated by the user and subtracts or adds funds as they imput values.
